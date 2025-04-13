@@ -1,21 +1,4 @@
-<header>
-
-![Deprecation Badge](https://img.shields.io/badge/Skills-Deprecated-333?logo=github&labelColor=454c54&color=bf8700)
-
-This course has been deprecated. Please visit the [Getting Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot) exercise for the newest learning content.
-
-<!--
-  <<< Author notes: Course header >>>
-  Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
-  Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Next to "About", add description & tags; disable releases, packages, & environments.
-  Add your open source license, GitHub uses the MIT license.
--->
-
-# Code with GitHub Copilot
-
-_GitHub Copilot can help you code by offering autocomplete-style suggestions right in VS Code and Codespaces._
+<header(https://github.com/skills/getting-started-with-undo VS Code and Codespaces._
 
 </header>
 
@@ -73,19 +56,7 @@ Before you open up a codespace on a repository, you can create a development con
 1. Click the **Codespaces** tab on the box that pops up.
 1. Click the **Create codespace on main** button.
 
-   **Wait about 2 minutes for the codespace to spin itself up.**
-
-1. Verify your codespace is running. The browser should contain a VS Code web-based editor and a terminal should be present such as the below:
-   ![Screen Shot 2023-03-09 at 9 09 07 AM](https://user-images.githubusercontent.com/26442605/224102962-d0222578-3f10-4566-856d-8d59f28fcf2e.png)
-1. The `copilot` extension should show up in the VS Code extension list. Click the extensions sidebar tab. You should see the following:
-   ![Screen Shot 2023-03-09 at 9 04 13 AM](https://user-images.githubusercontent.com/26442605/224102514-7d6d2f51-f435-401d-a529-7bae3ae3e511.png)
-
-**Wait about 60 seconds then refresh your repository landing page for the next step.**
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
+   **Wait about 2 minutes for the codesp
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
